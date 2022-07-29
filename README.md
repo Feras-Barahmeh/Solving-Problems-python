@@ -1,5 +1,5 @@
 # Solving-Problems
-This repository has solution to same problems from problem solving websites like codeforces
+ - This repository has solution to same problems from problem solving websites like codeforces leetcode
 
 ## **Notes**
 - Most Files has link to problem
